@@ -1,2 +1,2 @@
 # IBM-Data-Science
-Data Science Graded Assignment
+COURSERA IBM DATA SCIENCE CERTIFICATIONS
